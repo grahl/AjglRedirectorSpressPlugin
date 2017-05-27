@@ -16,7 +16,7 @@
         "psr-4": { "Ajgl\\Spress\\Plugin\\Redirector\\": "src/" }
     },
     "require": {
-        "spress/spress-installer": "2.0.*"
+        "spress/spress-installer": "~2.1"
     },
     "extra": {
         "spress_class": "Ajgl\\Spress\\Plugin\\Redirector\\RedirectorPlugin",
